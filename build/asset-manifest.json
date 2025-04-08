@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b635a52.css",
+    "main.js": "/static/js/main.80f13fd3.js",
+    "static/js/453.112c2c99.chunk.js": "/static/js/453.112c2c99.chunk.js",
+    "static/media/video.mp4": "/static/media/video.e5eaa19acea924b8fb78.mp4",
+    "static/media/cocoon_1.png": "/static/media/cocoon_1.f9c699e16e56baa7f915.png",
+    "static/media/skincare.png": "/static/media/skincare.13406d931aa9f383b099.png",
+    "static/media/cocoon_2.png": "/static/media/cocoon_2.0c7ae792847f9ca86d4e.png",
+    "static/media/skincare-routine.jpg": "/static/media/skincare-routine.51bf639eb2b7789eb0a8.jpg",
+    "index.html": "/index.html",
+    "main.9b635a52.css.map": "/static/css/main.9b635a52.css.map",
+    "main.80f13fd3.js.map": "/static/js/main.80f13fd3.js.map",
+    "453.112c2c99.chunk.js.map": "/static/js/453.112c2c99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b635a52.css",
+    "static/js/main.80f13fd3.js"
+  ]
+}
