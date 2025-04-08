@@ -45,7 +45,7 @@ app.use(
 app.use(cors());
 app.use(passport.initialize());
 app.use(passport.session());
-const port = 4000;
+const port = 5000;
 
 connectDB();
 
