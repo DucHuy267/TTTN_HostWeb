@@ -15,7 +15,9 @@ const cors = require('cors');
 const passport = require("passport");
 const dotenv = require("dotenv");
 const session = require("express-session");
-const jwt = require("jsonwebtoken");    
+const jwt = require("jsonwebtoken");  
+const path = require('path');
+
 
 require("./config/passport")
 dotenv.config();
